@@ -1,0 +1,302 @@
+[
+  {
+    "Building ID": 1,
+    "Building Name": "Wilkins Building",
+    "Trivia ID": 1,
+    "Trivia Question": "What architectural style is the Wilkins Building primarily known for?",
+    "Trivia Option 1": "Gothic Revival",
+    "Trivia Option 2": "Baroque",
+    "Trivia Option 3": "Art Deco",
+    "Trivia Answer": "Neo-Grecian"
+  },
+  {
+    "Building ID": 1,
+    "Building Name": "Wilkins Building",
+    "Trivia ID": 2,
+    "Trivia Question": "What year was the construction of the Wilkins Building completed?",
+    "Trivia Option 1": 1826,
+    "Trivia Option 2": 1847,
+    "Trivia Option 3": 1854,
+    "Trivia Answer": 1830
+  },
+  {
+    "Building ID": 1,
+    "Building Name": "Wilkins Building",
+    "Trivia ID": 3,
+    "Trivia Question": "Which iconic feature is associated with the Wilkins Building?",
+    "Trivia Option 1": "Gothic-style windows",
+    "Trivia Option 2": "A glass dome",
+    "Trivia Option 3": "Asymmetrical courtyard",
+    "Trivia Answer": "A grand Corinthian portico"
+  },
+  {
+    "Building ID": 2,
+    "Building Name": "Roberts Building",
+    "Trivia ID": 4,
+    "Trivia Question": "Who is the Roberts Building likely named after?",
+    "Trivia Option 1": "A famous writer",
+    "Trivia Option 2": "A famous architect",
+    "Trivia Option 3": "A philanthropic donor",
+    "Trivia Answer": "A pioneering engineer or scientist"
+  },
+  {
+    "Building ID": 2,
+    "Building Name": "Roberts Building",
+    "Trivia ID": 5,
+    "Trivia Question": "Which of the following is a key feature of the Roberts Building?",
+    "Trivia Option 1": "A rooftop garden",
+    "Trivia Option 2": "A dedicated library for historical texts",
+    "Trivia Option 3": "A performance arts auditorium",
+    "Trivia Answer": "State-of-the-art engineering labs"
+  },
+  {
+    "Building ID": 2,
+    "Building Name": "Roberts Building",
+    "Trivia ID": 6,
+    "Trivia Question": "The design of the Roberts Building reflects which of the following architectural styles?",
+    "Trivia Option 1": "Brutalist architecture",
+    "Trivia Option 2": "Neoclassical architecture",
+    "Trivia Option 3": "Victorian Gothic architecture",
+    "Trivia Answer": "Modernist architecture"
+  },
+  {
+    "Building ID": 3,
+    "Building Name": "Cruciform Building",
+    "Trivia ID": 7,
+    "Trivia Question": "What does the \"Cruciform\" in Cruciform Building likely refer to?",
+    "Trivia Option 1": "Its role in teaching medieval history",
+    "Trivia Option 2": "Its association with religious studies",
+    "Trivia Option 3": "Its original use as a hospital",
+    "Trivia Answer": "Its architectural shape resembling a cross"
+  },
+  {
+    "Building ID": 3,
+    "Building Name": "Cruciform Building",
+    "Trivia ID": 8,
+    "Trivia Question": "Who was the architect behind the design of the Cruciform Building?",
+    "Trivia Option 1": "Sir Charles Barry",
+    "Trivia Option 2": "Christopher Wren",
+    "Trivia Option 3": "Alfred Roberts",
+    "Trivia Answer": "Alfred Waterhouse"
+  },
+  {
+    "Building ID": 3,
+    "Building Name": "Cruciform Building",
+    "Trivia ID": 9,
+    "Trivia Question": "What was the original purpose of the Cruciform Building at UCL?",
+    "Trivia Option 1": "Lecture hall",
+    "Trivia Option 2": "Medical school",
+    "Trivia Option 3": "Library",
+    "Trivia Answer": "Hospital"
+  },
+  {
+    "Building ID": 4,
+    "Building Name": "Chadwick Building",
+    "Trivia ID": 10,
+    "Trivia Question": "The Chadwick Building plays a role in which of UCL’s key research areas?",
+    "Trivia Option 1": "Life sciences",
+    "Trivia Option 2": "Built environment",
+    "Trivia Option 3": "Digital humanities",
+    "Trivia Answer": "UCL Civil, Environmental & Geomatic Engineering"
+  },
+  {
+    "Building ID": 4,
+    "Building Name": "Chadwick Building",
+    "Trivia ID": 11,
+    "Trivia Question": "The Chadwick Building is named after which famous figure?",
+    "Trivia Option 1": "Matthew Chadwick",
+    "Trivia Option 2": "Charles Chadwick",
+    "Trivia Option 3": "William Chadwick",
+    "Trivia Answer": "Edwin Chadwick"
+  },
+  {
+    "Building ID": 4,
+    "Building Name": "Chadwick Building",
+    "Trivia ID": 12,
+    "Trivia Question": "What feature is part of the Chadwick Building's architectural design?",
+    "Trivia Option 1": "A flying buttress",
+    "Trivia Option 2": "A cornice",
+    "Trivia Option 3": "A spire",
+    "Trivia Answer": "A glass dome"
+  },
+  {
+    "Building ID": 5,
+    "Building Name": "Bartlett School",
+    "Trivia ID": 13,
+    "Trivia Question": "What is the Bartlett School at UCL primarily known for?",
+    "Trivia Option 1": "Law",
+    "Trivia Option 2": "Medicine",
+    "Trivia Option 3": "Business",
+    "Trivia Answer": "Architecture and Planning"
+  },
+  {
+    "Building ID": 5,
+    "Building Name": "Bartlett School",
+    "Trivia ID": 14,
+    "Trivia Question": "The Bartlett School's name honors which UCL benefactor?",
+    "Trivia Option 1": "Sir Thomas Bartlett",
+    "Trivia Option 2": "Alfred Bartlett",
+    "Trivia Option 3": "John Bartlett",
+    "Trivia Answer": "Sir Herbert Bartlett"
+  },
+  {
+    "Building ID": 5,
+    "Building Name": "Bartlett School",
+    "Trivia ID": 15,
+    "Trivia Question": "Which feature is a hallmark of the Bartlett School's teaching spaces?",
+    "Trivia Option 1": "Anatomy dissection rooms",
+    "Trivia Option 2": "Performance stages",
+    "Trivia Option 3": "Large lecture theaters",
+    "Trivia Answer": "Digital prototyping labs"
+  },
+  {
+    "Building ID": 6,
+    "Building Name": "Main Library",
+    "Trivia ID": 16,
+    "Trivia Question": "When was UCL's Main Library officially opened?",
+    "Trivia Option 1": 1826,
+    "Trivia Option 2": 1901,
+    "Trivia Option 3": 1850,
+    "Trivia Answer": 1911
+  },
+  {
+    "Building ID": 6,
+    "Building Name": "Main Library",
+    "Trivia ID": 17,
+    "Trivia Question": "What type of collections is the Main Library especially known for?",
+    "Trivia Option 1": "Mathematical research",
+    "Trivia Option 2": "Modern engineering papers",
+    "Trivia Option 3": "Sports history documents",
+    "Trivia Answer": "Humanities and special collections"
+  },
+  {
+    "Building ID": 6,
+    "Building Name": "Main Library",
+    "Trivia ID": 18,
+    "Trivia Question": "The Main Library is located in which iconic part of UCL's campus?",
+    "Trivia Option 1": "South Quad",
+    "Trivia Option 2": "Cruciform Building",
+    "Trivia Option 3": "Science Library",
+    "Trivia Answer": "Wilkins Building"
+  },
+  {
+    "Building ID": 7,
+    "Building Name": "Science Library",
+    "Trivia ID": 19,
+    "Trivia Question": "What is the primary focus of the Science Library at UCL?",
+    "Trivia Option 1": "Humanities",
+    "Trivia Option 2": "Fine Arts",
+    "Trivia Option 3": "Law",
+    "Trivia Answer": "STEM subjects"
+  },
+  {
+    "Building ID": 7,
+    "Building Name": "Science Library",
+    "Trivia ID": 20,
+    "Trivia Question": "The Science Library is particularly known for which special facility?",
+    "Trivia Option 1": "Rare manuscript archive",
+    "Trivia Option 2": "3D-printing studio",
+    "Trivia Option 3": "Anatomical models room",
+    "Trivia Answer": "Study pods and open-access labs"
+  },
+  {
+    "Building ID": 7,
+    "Building Name": "Science Library",
+    "Trivia ID": 21,
+    "Trivia Question": "In which decade was the Science Library established?",
+    "Trivia Option 1": "1920s",
+    "Trivia Option 2": "1950s",
+    "Trivia Option 3": "1970s",
+    "Trivia Answer": "1960s"
+  },
+  {
+    "Building ID": 8,
+    "Building Name": "UCL School of Management",
+    "Trivia ID": 22,
+    "Trivia Question": "When was the UCL School of Management established at One Canada Square?",
+    "Trivia Option 1": 2010,
+    "Trivia Option 2": 2019,
+    "Trivia Option 3": 2008,
+    "Trivia Answer": 2016
+  },
+  {
+    "Building ID": 8,
+    "Building Name": "UCL School of Management",
+    "Trivia ID": 23,
+    "Trivia Question": "What makes the UCL School of Management’s location in One Canada Square unique?",
+    "Trivia Option 1": "It has direct access to a historic campus.",
+    "Trivia Option 2": "It is a purely residential tower.",
+    "Trivia Option 3": "It shares the building with medical research labs.",
+    "Trivia Answer": "It is situated in London’s financial district, fostering industry connections."
+  },
+  {
+    "Building ID": 8,
+    "Building Name": "UCL School of Management",
+    "Trivia ID": 24,
+    "Trivia Question": "What makes the UCL School of Management’s location in One Canada Square unique?",
+    "Trivia Option 1": "Rooftop garden",
+    "Trivia Option 2": "Central clock tower",
+    "Trivia Option 3": "Gothic interiors",
+    "Trivia Answer": "Modern study and research spaces"
+  },
+  {
+    "Building ID": 9,
+    "Building Name": "Student Centre",
+    "Trivia ID": 25,
+    "Trivia Question": "What is the UCL Student Centre known for?",
+    "Trivia Option 1": "Its historical architecture",
+    "Trivia Option 2": "Its exclusive library access",
+    "Trivia Option 3": "Its large event spaces",
+    "Trivia Answer": "24-hour study and social facilities"
+  },
+  {
+    "Building ID": 9,
+    "Building Name": "Student Centre",
+    "Trivia ID": 26,
+    "Trivia Question": "What is the highest floor occupied by the UCL School of Management in One Canada Square?",
+    "Trivia Option 1": "20th floor",
+    "Trivia Option 2": "38th floor",
+    "Trivia Option 3": "43th floor",
+    "Trivia Answer": "50th floor"
+  },
+  {
+    "Building ID": 9,
+    "Building Name": "Student Centre",
+    "Trivia ID": 27,
+    "Trivia Question": "What sustainability feature is notable in the Student Centre?",
+    "Trivia Option 1": "Solar-powered elevators",
+    "Trivia Option 2": "Rainwater harvesting",
+    "Trivia Option 3": "Passive cooling system",
+    "Trivia Answer": "Rainwater harvesting"
+  },
+  {
+    "Building ID": 10,
+    "Building Name": "Marshgate",
+    "Trivia ID": 28,
+    "Trivia Question": "What does the UCL Marshgate building primarily focus on?",
+    "Trivia Option 1": "Sports science",
+    "Trivia Option 2": "Law",
+    "Trivia Option 3": "Fine arts",
+    "Trivia Answer": "Interdisciplinary research"
+  },
+  {
+    "Building ID": 10,
+    "Building Name": "Marshgate",
+    "Trivia ID": 29,
+    "Trivia Question": "The Marshgate building is part of which UCL campus?",
+    "Trivia Option 1": "Bloomsbury Campus",
+    "Trivia Option 2": "Cruciform Campus",
+    "Trivia Option 3": "Euston Campus",
+    "Trivia Answer": "UCL East"
+  },
+  {
+    "Building ID": 10,
+    "Building Name": "Marshgate",
+    "Trivia ID": 30,
+    "Trivia Question": "What is a key architectural feature of the Marshgate building?",
+    "Trivia Option 1": "Glass dome",
+    "Trivia Option 2": "Floating walkways",
+    "Trivia Option 3": "Spiral staircases",
+    "Trivia Answer": "Open-plan research spaces"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "Building ID": 1,
+    "Building Name": "Wilkins Building",
+    "Image URL": "https://www.accessable.co.uk/ucl/access-guides/wilkins-building",
+    "Longitude": 51.52576864,
+    "Latitude": -0.1337191997,
+    "Incorrect Building 1": "Roberts Building",
+    "Incorrect Building 2": "Cruciform Building",
+    "Incorrect Building 3": "Chadwick Building"
+  },
+  {
+    "Building ID": 2,
+    "Building Name": "Roberts Building",
+    "Image URL": "https://www.accessable.co.uk/ucl/access-guides/roberts-building-and-darwin-extension",
+    "Longitude": 51.5235697,
+    "Latitude": -0.1320058034,
+    "Incorrect Building 1": "Cruciform Building",
+    "Incorrect Building 2": "Wilkins Building",
+    "Incorrect Building 3": "Chadwick Building"
+  },
+  {
+    "Building ID": 3,
+    "Building Name": "Cruciform Building",
+    "Image URL": "https://www.accessable.co.uk/ucl/access-guides/cruciform-building",
+    "Longitude": 51.52498933,
+    "Latitude": -0.1350316495,
+    "Incorrect Building 1": "Wilkins Building",
+    "Incorrect Building 2": "Roberts Building",
+    "Incorrect Building 3": "Chadwick Building"
+  },
+  {
+    "Building ID": 4,
+    "Building Name": "Chadwick Building",
+    "Image URL": "https://www.accessable.co.uk/ucl/access-guides/chadwick-building",
+    "Longitude": 51.52461436,
+    "Latitude": -0.1345569875,
+    "Incorrect Building 1": "Wilkins Building",
+    "Incorrect Building 2": "Roberts Building",
+    "Incorrect Building 3": "Cruciform Building"
+  },
+  {
+    "Building ID": 5,
+    "Building Name": "Bartlett School",
+    "Image URL": "https://www.accessable.co.uk/ucl/access-guides/gordon-street-22",
+    "Longitude": 51.52284695,
+    "Latitude": -0.1346041558,
+    "Incorrect Building 1": "Wilkins Building",
+    "Incorrect Building 2": "Roberts Building",
+    "Incorrect Building 3": "Cruciform Building"
+  },
+  {
+    "Building ID": 6,
+    "Building Name": "Main Library",
+    "Image URL": "https://www.accessable.co.uk/ucl/access-guides/main-library",
+    "Longitude": 51.52554427,
+    "Latitude": -0.1336545807,
+    "Incorrect Building 1": "Science Library",
+    "Incorrect Building 2": "Cruciform Hub",
+    "Incorrect Building 3": "Student Centre"
+  },
+  {
+    "Building ID": 7,
+    "Building Name": "Science Library",
+    "Image URL": "https://www.ucl.ac.uk/estates/news/2024/jun/passage-malet-place-restricted-afternoon-saturday-15-june",
+    "Longitude": 51.52365779,
+    "Latitude": -0.1326453254,
+    "Incorrect Building 1": "Main Library",
+    "Incorrect Building 2": "Cruciform Hub",
+    "Incorrect Building 3": "Student Centre"
+  },
+  {
+    "Building ID": 8,
+    "Building Name": "UCL School of Management",
+    "Image URL": "https://www.mgmt.ucl.ac.uk/blog/cool-shoes-master%E2%80%99s-student-canary-wharf",
+    "Longitude": 51.50505241,
+    "Latitude": -0.01933966746,
+    "Incorrect Building 1": "Marshgate",
+    "Incorrect Building 2": "Science Library",
+    "Incorrect Building 3": "Student Centre"
+  },
+  {
+    "Building ID": 9,
+    "Building Name": "Student Centre",
+    "Image URL": "https://www.accessable.co.uk/ucl/access-guides/student-centre",
+    "Longitude": 51.52549762,
+    "Latitude": -0.1327704056,
+    "Incorrect Building 1": "Cruciform Hub",
+    "Incorrect Building 2": "Wilkins Building",
+    "Incorrect Building 3": "Bartlett School"
+  },
+  {
+    "Building ID": 10,
+    "Building Name": "Marshgate",
+    "Image URL": "https://www.accessable.co.uk/ucl/access-guides/marshgate",
+    "Longitude": 51.53772055,
+    "Latitude": -0.01185885678,
+    "Incorrect Building 1": "Pool Street West",
+    "Incorrect Building 2": "One Pool Street",
+    "Incorrect Building 3": "Here East"
+  }
+]
